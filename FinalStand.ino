@@ -9,8 +9,8 @@
 // utilizing char* (immutable) and const being mutable, it points to the content location (aka pointer reference)
 rgb_lcd lcd;
 
-const char* ssid = "SHAW-7A54";
-const char* password = "easier1973empty";
+const char* ssid = "wifiName";
+const char* password = "password";
 const char* conditionInput = "state";
 
 // pin of button + led
